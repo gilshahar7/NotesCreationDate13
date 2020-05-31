@@ -1,0 +1,9 @@
+Package: com.gilshahar7.notescreationdate13
+Name: NotesCreationDate13
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: See the date notes were created & modified, originally by ludvigeriksson.
+Maintainer: gilshahar7
+Author: gilshahar7
+Section: Tweaks
